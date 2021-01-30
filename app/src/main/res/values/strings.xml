@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sample UI</string>
+    <string name="title_activity_broadcaster_live">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="pointDescription">No earned points yet.</string>
+
+    <string name="broadcasterLive">Broadcaster Live</string>
+
+    <string name="howToIncrease">How to Increase Your Talent Level?</string>
+    <string name="liveBroadcast">Live Broadcast</string>
+    <string name="liveBroadcastDescription">The longer you broadcast the better</string>
+    <string name="getGifts">Get Gifts</string>
+    <string name="getGiftsDescription">Talk about interesting topics so you can get more gifts</string>
+    <string name="getHearts">Get hearts</string>
+    <string name="talentPrivileges">Talent Privileges</string>
+    <string name="getHearstDescription">Hearts can also increase broadcaster\'s level</string>
+    <string name="higherRanking">Higher Ranking</string>
+    <string name="higherRankingDescription">The higher your level is the higher you will appear on the ranking board</string>
+    <string name="revealIdentity">Reveal identity</string>
+    <string name="revealIdentityDescription">Exclusive badges. As your level gets higher, the more special your badge becomes, reveal your broadcast identity.</string>
+    <string name="morePrivileges">More Privileges</string>
+    <string name="morePrivilegesDescription">Please stay tuned for more privileges.</string>
+
+</resources>
